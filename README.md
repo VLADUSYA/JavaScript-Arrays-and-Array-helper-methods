@@ -2,7 +2,7 @@
 
 Step-by-step guide to clone and use repository:
 
-git clone https://github.com/bstashchuk/JavaScript-Arrays-and-Array-helper-methods
+git clone https://github.com/VLADUSYA/JavaScript-Arrays-and-Array-helper-methods
 
 cd JavaScript-Arrays-and-Array-helper-methods
 
